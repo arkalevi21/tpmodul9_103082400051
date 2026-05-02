@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FayrW31Hr4k=",
+  "success": true,
+  "projectFilePath": "/Users/arkalevi/RiderProjects/tpmodul9_103082400051/tpmodul9_103082400051/tpmodul9_103082400051.csproj",
+  "expectedPackageFiles": [
+    "/Users/arkalevi/.nuget/packages/microsoft.aspnetcore.openapi/9.0.14/microsoft.aspnetcore.openapi.9.0.14.nupkg.sha512",
+    "/Users/arkalevi/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
